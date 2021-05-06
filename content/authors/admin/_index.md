@@ -77,6 +77,6 @@ highlight_name: false
 
 I am a final-year PhD student at the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) of the University of Cambridge, supervised by [Prof. Carl E. Rasmussen](http://mlg.eng.cam.ac.uk/carl) and advised by [Dr. José Miguel Hernández-Lobato](https://jmhl.org/). My research focuses on data-efficient learning under uncertainty, including work on reinforcement learning, active learning and Bayesian deep learning. I am also interested in applying machine learning to problems in science and engineering.
 
-My work evolves around two common themes:
+My work revolves around two common themes:
 1. **Reasoning about uncertainty:** I believe that obtaining accurate uncertainty estimates is crucial for efficient data acquisition and exploration. Therefore, I use the language of probability and Bayesian inference to express and reason about uncertainty.
 2. **Exploiting prior knowledge:** Efficient learning requires to equip models with the right inductive biases. In particular, I am interested in exploiting prior knowledge about the symmetries of the underlying problem, such as translation- or rotation-equivariance.
