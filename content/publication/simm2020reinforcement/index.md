@@ -45,8 +45,8 @@ links:
   url: https://mlg-blog.com/2021/04/30/reinforcement-learning-for-3d-molecular-design.html
 - name: Preprint
   url: https://arxiv.org/abs/2002.07717
-url_pdf: 'https://proceedings.icml.cc/static/paper_files/icml/2020/1323-Paper.pdf'
-url_code: 'https://github.com/gncs/molgym'
+url_pdf: https://proceedings.icml.cc/static/paper_files/icml/2020/1323-Paper.pdf
+url_code: https://github.com/gncs/molgym
 url_dataset: ''
 url_poster: ''
 url_project: ''
