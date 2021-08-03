@@ -42,7 +42,7 @@ featured: true
 
 links:
 - name: PDF
-  url: https://proceedings.icml.cc/static/paper_files/icml/2020/1323-Paper.pdf
+  url: http://proceedings.mlr.press/v119/simm20b/simm20b.pdf
 - name: Code
   url: https://github.com/gncs/molgym
 - name: Blog
