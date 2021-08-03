@@ -37,10 +37,14 @@ tags: [active learning, bayesian deep learning, approximate inference]
 featured: true
 
 links:
+- name: PDF
+  url: https://papers.nips.cc/paper/2019/file/84c2d4860a0fc27bcf854c444fb8b400-Paper.pdf
 - name: Preprint
   url: https://arxiv.org/abs/1908.02144
-url_pdf: 'https://papers.nips.cc/paper/2019/file/84c2d4860a0fc27bcf854c444fb8b400-Paper.pdf'
-url_code: 'https://github.com/rpinsler/active-bayesian-coresets'
+- name: Code
+  url: https://github.com/rpinsler/active-bayesian-coresets
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

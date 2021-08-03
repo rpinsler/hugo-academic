@@ -43,16 +43,20 @@ tags: [reinforcement learning, contextual policy search, bayesian optimization, 
 featured: false
 
 links:
+- name: PDF
+  url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793808
 - name: Preprint
   url: https://arxiv.org/abs/1904.11761
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793808'
+- name: Video
+  url: https://youtu.be/MNTbBAOufDY
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/MNTbBAOufDY'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -37,7 +37,10 @@ tags: [hierarchical reinforcement learning, preference learning, human-robot int
 # Display this page in the Featured widget?
 featured: false
 
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460907'
+links:
+- name: PDF
+  url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460907
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

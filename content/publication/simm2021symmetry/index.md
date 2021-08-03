@@ -37,12 +37,16 @@ tags: [reinforcement learning, molecular design, chemistry, covariant neural net
 featured: true
 
 links:
+- name: PDF
+  url: https://openreview.net/pdf?id=jEYKjPE1xYN
+- name: Code
+  url: https://github.com/gncs/molgym
 - name: Blog
   url: https://mlg-blog.com/2021/04/30/reinforcement-learning-for-3d-molecular-design.html
 - name: Preprint
   url: https://arxiv.org/abs/2011.12747
-url_pdf: 'https://openreview.net/pdf?id=jEYKjPE1xYN'
-url_code: 'https://github.com/gncs/molgym'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
